@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@layer base {
+    html,
+    body {
+      background-color: #2b6777; /* Change the background color globally */
+    }
+  }
